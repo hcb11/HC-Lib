@@ -18,7 +18,8 @@ namespace program
            /* 2 number multiplication test*/ Console.WriteLine(Math.Multiply(2, 5));
             /* Circle Area test*/ Console.WriteLine(Math.AreaCircle(5));
             /*Square Area Test*/ Console.WriteLine(Math.AreaRec(5));
-            
+            /* Rectangle Area Test*/  Console.WriteLine(Math.AreaRec(5, 5));
+            /* Multi Side Polygon Area test*/
         }
     }
 }
